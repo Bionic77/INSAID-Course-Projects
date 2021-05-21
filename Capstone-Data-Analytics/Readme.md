@@ -1,3 +1,3 @@
-Capstone Project
+## Capstone Project
 
-Data Analytics
+### Data Analytics
